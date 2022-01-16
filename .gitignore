@@ -1,0 +1,5 @@
+/.idea
+/102flowers
+/__pycache__
+/*.h5
+/*.npy
